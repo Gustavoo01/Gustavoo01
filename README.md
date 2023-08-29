@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/gustavoo01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoo01&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoo01&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> -->
 </div>
   <b>My top languages:</b>
 <div style="display: inline_block"><br>
